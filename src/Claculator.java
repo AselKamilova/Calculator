@@ -12,6 +12,9 @@ public class Claculator {
     public static double multiply (double num1, double num2){
         return num1*num2;
         
-        //pushing from github
+    }      //pushing from github
+        
+   public static double divide(double num1, double num2){
+       return num1/num2;
 }
 }
