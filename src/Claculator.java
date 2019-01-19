@@ -12,13 +12,15 @@ public class Claculator {
     
     public static double multiply (double num1, double num2){
         return num1*num2;
+//local1
 
-
-
-
-
-}
+    }
 public  static double divide(double n1,double n2){
         return n1/n2;
-}
+//local 2
+
+        
+    }      //pushing from github
+        
+
 }
